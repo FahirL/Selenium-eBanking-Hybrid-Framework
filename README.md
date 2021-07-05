@@ -12,6 +12,7 @@ This is an eBanking project from the Guru99 platform, where we wrote two tests w
 See the file "pom.xml" for more details.
 
 ##TestNG test .gif
+
 ![Alt Text](https://github.com/FahirL/Selenium-eBanking-Hybrid-Framework/blob/master/TestNG.gif?raw=true)
 
 
