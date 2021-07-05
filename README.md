@@ -23,6 +23,10 @@ See the file "pom.xml" for more details.
 
 ![Alt Text](https://github.com/FahirL/Selenium-eBanking-Hybrid-Framework/blob/master/CLI%20run.bat%20test%20.gif.gif?raw=true)
 
+## Jenkins Build Test .gif
+
+![Alt Text](https://github.com/FahirL/Selenium-eBanking-Hybrid-Framework/blob/master/Jenkins%20Build%20Test.gif?raw=true)
+
 # selenium-webdriver
 
 Selenium is a browser automation library. Most often used for testing
