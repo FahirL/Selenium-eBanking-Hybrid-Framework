@@ -15,6 +15,10 @@ See the file "pom.xml" for more details.
 
 ![Alt Text](https://github.com/FahirL/Selenium-eBanking-Hybrid-Framework/blob/master/TestNG.gif?raw=true)
 
+## TestNG DataDriven test .gif
+
+![Alt Text](https://github.com/FahirL/Selenium-eBanking-Hybrid-Framework/blob/master/TestNG%20DataDriven%20test%20.gif.gif?raw=true)
+
 
 # selenium-webdriver
 
