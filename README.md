@@ -12,19 +12,7 @@ Selenium may be installed via npm with
 
     npm install selenium-webdriver
 
-You will need to download additional components to work with each of the major
-browsers. The drivers for Chrome, Firefox, and Microsoft's IE and Edge web
-browsers are all standalone executables that should be placed on your system
-[PATH]. Apple's safaridriver is shipped with Safari 10 for OS X El Capitan and
-macOS Sierra. You will need to enable Remote Automation in the Develop menu of
-Safari 10 before testing.
-
-
-| Browser           | Component                          |
-| ----------------- | ---------------------------------- |
-| Chrome            | [chromedriver(.exe)][chrome]       |
-| Internet Explorer | [IEDriverServer.exe][release]      |
-| Edge              | [MicrosoftWebDriver.msi][edge]     |
-| Firefox           | [geckodriver(.exe)][geckodriver]   |
-| Opera             | [operadriver(.exe)][operadriver]   |
-| Safari            | [safaridriver]                     |
+And you need install Java SDK and Eclipse.
+Java Development Kit (JDK). https://www.oracle.com/java/technologies/javase-downloads.html
+Eclipse IDE - http://www.eclipse.org/downloads/
+Java Client Driver - https://www.selenium.dev/downloads/|
