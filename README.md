@@ -1,5 +1,5 @@
 # Selenium-eBanking-Hybrid-Framework
-This is an eBanking project from the Guru99 platform, where we wrote two tests with a complete project concept. In addition to these two tests, we also wrote a one Data Driven test. We also ran tests on jenkins.
+This is an eBanking project from the Guru99 platform, where we wrote two tests with a complete project concept. In addition to these two tests, we also wrote a one Data Driven test. We also ran tests on Jenkins.
 
 ## Usage
 - Maven project
@@ -10,6 +10,10 @@ This is an eBanking project from the Guru99 platform, where we wrote two tests w
 - log4j -v 1.2.17
 
 See the file "pom.xml" for more details.
+
+##TestNG test .gif
+![Alt Text](https://github.com/FahirL/Selenium-eBanking-Hybrid-Framework/blob/master/TestNG.gif?raw=true)
+
 
 # selenium-webdriver
 
