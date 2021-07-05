@@ -19,6 +19,9 @@ See the file "pom.xml" for more details.
 
 ![Alt Text](https://github.com/FahirL/Selenium-eBanking-Hybrid-Framework/blob/master/TestNG%20DataDriven%20test%20.gif.gif?raw=true)
 
+## CLI run.bat test .gif
+
+![Alt Text](https://github.com/FahirL/Selenium-eBanking-Hybrid-Framework/blob/master/CLI%20run.bat%20test%20.gif.gif?raw=true)
 
 # selenium-webdriver
 
