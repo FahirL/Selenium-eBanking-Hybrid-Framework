@@ -1,4 +1,15 @@
 # Selenium-eBanking-Hybrid-Framework
+This is an eBanking project from the Guru99 platform, where we wrote two tests with a complete project concept. In addition to these two tests, we also wrote a one Data Driven test. We also ran tests on jenkins.
+
+## Usage
+- Maven project
+- Maven compiler plugin (1.7) and Maven surefire plugin (2.18.1)
+- Selenium -v 3.141.59
+- TestNG -v 7.4.0
+- ExtentReports -v 4.0.9
+- log4j -v 1.2.17
+
+See the file "pom.xml" for more details.
 
 # selenium-webdriver
 
